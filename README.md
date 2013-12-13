@@ -1,4 +1,4 @@
-test2
+test3
 
 **knockout-sortable** is a binding for [Knockout.js](http://knockoutjs.com/) designed to connect observableArrays with jQuery UI's sortable functionality.  This allows a user to drag and drop items within a list or between lists and have the corresponding observableArrays updated appropriately.
 
